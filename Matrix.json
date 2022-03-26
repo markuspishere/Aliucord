@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "name": "Matrix",
         "author": "Voltox",
-        "updater": "https:\/\/github.com\/markuspishere\/Aliucord\/blob\/main\/Matrix.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/markuspishere\/Aliucord\/main\/Matrix.json"
     },
     "background": {
         "blur_radius": 1,
