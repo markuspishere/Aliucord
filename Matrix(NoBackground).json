@@ -1,7 +1,7 @@
 {
     "manifest": {
         "version": "1.0.0",
-        "name": "Matrix(NoBackground)",
+        "name": "Matrix(Amoled)",
         "author": "Voltox",
         "updater": "https:\/\/raw.githubusercontent.com\/markuspishere\/Aliucord\/main\/Matrix(NoBackground).json"
     },
