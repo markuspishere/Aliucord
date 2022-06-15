@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "name": "Matrix",
         "author": "Voltox",
         "updater": "https:\/\/raw.githubusercontent.com\/markuspishere\/Aliucord\/main\/Matrix.json"
@@ -8,10 +8,10 @@
     "background": {
         "blur_radius": 1,
         "overlay_alpha": 175,
-        "url": "https:\/\/media.discordapp.net\/attachments\/860926060718456845\/957383939864031312\/wp2822439.jpeg"
+        "url": "https:\/\/github.com\/markuspishere\/Aliucord\/raw\/main\/wp2822439.jpeg"
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/860926060718456845\/957386519017029712\/Consolas.ttf"
+        "*": "https:\/\/github.com\/markuspishere\/Aliucord\/blob\/main\/Consolas.ttf?raw=true"
     },
     "simple_colors": {
         "background": 203239455,
