@@ -1,17 +1,17 @@
 {
     "manifest": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "name": "Matrix(Amoled)",
         "author": "Voltox",
         "updater": "https:\/\/raw.githubusercontent.com\/markuspishere\/Aliucord\/main\/Matrix(NoBackground).json"
     },
     "background": {
-        "url": "https:\/\/media.discordapp.net\/attachments\/860926060718456845\/957399587700760676\/black.jpeg",
+        "url": "https:\/\/raw.githubusercontent.com\/markuspishere\/Aliucord\/main\/black.jpeg",
         "overlay_alpha": 175,
         "blur_radius": 1
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/860926060718456845\/957386519017029712\/Consolas.ttf"
+        "*": "https:\/\/github.com\/markuspishere\/Aliucord\/blob\/main\/Consolas.ttf?raw=true"
     },
     "simple_colors": {
         "background": 203239455,
